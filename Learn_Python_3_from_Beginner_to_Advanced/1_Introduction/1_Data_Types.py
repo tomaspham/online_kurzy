@@ -1,5 +1,5 @@
 
-print(type(2))             # <class 'int'>
+print(type(2))             # <class 'str'>
 print(type(2.2))           # <class 'float'>
 print(type(2000000000))    # <class 'int'>
 print(type(True))          # <class 'bool'>
