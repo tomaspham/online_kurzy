@@ -9,3 +9,15 @@ print(type("a"))           # <class 'str'>
 
 print('a')          # a
 print("a")          # a
+
+
+
+
+def daco():
+    pass
+
+hovno = 0
+
+if hovno:
+    print("")
+
