@@ -27,7 +27,6 @@ print(256 | 255)    # 511   Does a "bitwise or". Each bit of the output is 0 if 
 
 print(~5)           # -6
 # (~x)              # is the same as -x-1
-# 101               # 5
 print(-5-1)         # -6
 
 

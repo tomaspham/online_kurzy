@@ -3,7 +3,7 @@ string = 'I am string in Python'        # storing a string to a variable
 string1 = " I am string in Python"      # storing a string to a variable
 
 print(string[5:11])                     # string    # prints whatever is in the index range of x to y (y not included)
-print(string[:5])                       # I am      # prints everything up to index 5 (5 not included)
+print(string[:4])                       # I am      # prints everything up to index 5 (5 not included)
 print(string[15:])                      # Python    # prints everything after index 15 (15 included)
 
 
